@@ -12,3 +12,5 @@ Projects
   [demo](http://andrewgrachov.github.io/mongo-query)
 
 * Hipchat in terminal [npm install hc-cli -g](https://www.npmjs.org/package/hc-cli)
+
+* Multiplayer tanks, controlled by smartphones [multiplayerTanks](https://github.com/eagleeye/multiplayerTanks)

@@ -10,3 +10,5 @@ Projects
 
 * [mongo-query](https://github.com/AndrewGrachov/mongo-query)
   [demo](http://andrewgrachov.github.io/mongo-query)
+
+* Hipchat in terminal [npm install hc-cli -g](https://www.npmjs.org/package/hc-cli)

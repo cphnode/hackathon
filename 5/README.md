@@ -7,3 +7,6 @@ Projects
 * Send a PR and add your project plus links here
 * [/mail/null](https://github.com/jmosbech/mail-null): dummy SMTP server
 * [react-boilerplate](https://github.com/jmosbech/react-boilerplate): experimenting with using npm scripts to build Sass and React bundles
+
+* [mongo-query](https://github.com/AndrewGrachov/mongo-query)
+  [demo](http://andrewgrachov.github.io/mongo-query)

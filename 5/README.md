@@ -14,3 +14,5 @@ Projects
 * Hipchat in terminal [npm install hc-cli -g](https://www.npmjs.org/package/hc-cli)
 
 * Multiplayer tanks, controlled by smartphones [multiplayerTanks](https://github.com/eagleeye/multiplayerTanks)
+
+* [Note taking app](https://github.com/sorribas/noted)

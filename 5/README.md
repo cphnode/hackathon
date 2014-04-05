@@ -14,3 +14,5 @@ Projects
 * Hipchat in terminal [npm install hc-cli -g](https://www.npmjs.org/package/hc-cli)
 
 * Multiplayer tanks, controlled by smartphones [multiplayerTanks](https://github.com/eagleeye/multiplayerTanks)
+
+* Detect the amount of minutes left in an article you're reading in a browser. [articleft](https://github.com/dnlmzw/articleft)

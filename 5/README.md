@@ -6,6 +6,8 @@ Thanks to [drivr](https://drivr.com/) for hosting this great meetup
 
 Projects
 
+* [nodejobs.dk](http://www.nodejobs.dk): Jobsite for node.js specific jobs. [Open source](https://github.com/Muscula/nodejobs). Utilizing node 0.11 and harmony (generators for callback/flow-control with the [suspend](https://github.com/jmar777/suspend) module) Node.js, MongoDB, Angular, Twitter bootstrap and Mailchimp integration.
+ 
 * [/mail/null](https://github.com/jmosbech/mail-null): dummy SMTP server
 
 * [react-boilerplate](https://github.com/jmosbech/react-boilerplate): experimenting with using npm scripts to build Sass and React bundles
